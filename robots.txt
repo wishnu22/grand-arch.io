@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://grandarchitecturedesign.com/sitemap.xml
